@@ -1,8 +1,8 @@
-![.NET Core](https://github.com/Facing-South/NathansLevelBot/workflows/.NET%20Core/badge.svg)
-![LICENSE](https://img.shields.io/badge/license-GNU3-green)
-![Version](https://img.shields.io/badge/Version-1.0.4-blue)
-
 # Nathan's Level-Bot by Facing-South
+
+|License| Discord| Maintained|
+| :-: | :-: | :-: |
+| ![GitHub](https://img.shields.io/github/license/Facing-South/Linux-Commands) | [![Discord](https://img.shields.io/discord/641713710087405589.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/C3gfHBJ) | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) |
 
 This bot opens League of Legends and starts a match of your choice with a charackter of your choice without you having to do anything. He will moves the champion randomly across the map and executes abilities of your choice within a random time, so that you can gain experience and level up without having to play yourself. When a round is over, it automatically starts the next round. This process repeats itself until you turn off the bot.
 
@@ -64,10 +64,13 @@ This file contains the clicks that the bot should make after a round has ended. 
 
 Once all settings out of the installation-part are done, you dont have to edit them anymore if you wont move your icon on the desktop anymore. If you do it, just fit the correct values of the positions inside the StartGame.json or RestartGame.json. Simply click on the .exe file inside the folder and enjoy Nathan's bot :wink:
 
-## Contributions
-
-I cordially invite you all to expand and improve this bot with me. Simply fork the repository, make your changes, and submit a pull request. We can then look at it together. If you have any questions or criticism, you can also contact me via my homepage. There you will find a link to my Discord server.
-
 ## Known Issues
 
 - So far, the bot has only been tested on a system to which only one monitor with a resolution of 1920X1080 is connected. It cannot yet be guaranteed that the bot will work with a multi-monitor system.
+
+# Contribution
+I am very happy about each of you who want to expand the code with me. Please follow the following guidelines:
+
+- Add an issue to this repository and give it a name
+- Fork this repository and add your changes
+- Create a pull-request with your changes
