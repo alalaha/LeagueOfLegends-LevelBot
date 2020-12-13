@@ -1,4 +1,4 @@
-# Nathan's Level-Bot by Facing-South
+# League Of Legends Level Bot
 
 |License| Discord| Maintained|
 | :-: | :-: | :-: |
